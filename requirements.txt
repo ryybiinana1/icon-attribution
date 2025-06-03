@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+pandas
+albumentations
+scikit-learn
+matplotlib
+pyyaml
+hydra-core
+torchmetrics
+pytorch-lightning
+wandb
+rich
