@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+.venv
+*.egg-info
+
+# DVC
+*.dvc
+.cache/
+.dvc/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+artifacts/
+checkpoints/
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+wandb/
